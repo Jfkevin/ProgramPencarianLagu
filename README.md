@@ -47,3 +47,15 @@ Setelah file dibaca, pengguna akan disuguhkan menu utama yang berisi tiga piliha
 
 File `database_musik.txt` berisi daftar lagu dengan format berikut:
 
+---
+
+## 📚 Mata Kuliah
+
+Algoritma dan Struktur Data - IF 232
+
+Program Studi Informatika
+
+Fakultas Teknik dan Informatika
+
+🏫 Universitas Multimedia Nusantara (UMN)
+
